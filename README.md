@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning NextJs<br>💬 Ask me about Programming<br>⚡ Fun fact
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on AI<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning NextJs<br>💬 Ask me about Programming<br><!--⚡ Fun fact-->
 
 
 ## 🌐 Socials:
